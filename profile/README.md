@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo.png" width="180" alt="Yggdrix logo"/>
+    <img src="logo.png"  alt="Yggdrix logo"/>
 </p>
 
 <h1 align="center">🌿 YggDrix</h1>
