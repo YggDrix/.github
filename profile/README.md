@@ -51,7 +51,7 @@
 - 💬 Telegram: [@YggDrix_bot](https://t.me/YggDrix_bot)
 - 📩 Email: [info@yggdrix.com](mailto:info@yggdrix.com)
 - 🌍 Сайт: [yggdrix.ru](https://yggdrix.ru)
-- 📞 Телефон: <a href = "74993993886">+7 (499) 399-38-86</a>
+- 📞 Телефон: <a href = "tel:+74993993886">+7 (499) 399-38-86</a>
 
 ---
 
