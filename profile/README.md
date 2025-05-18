@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><p align="center">
-        <img src="logo.png" alt="Yggdrix logo"/>
+        <img align="center" src="logo.png" alt="Yggdrix logo"/>
         YggDrix</p> </h1>
 <p align="center">
     <strong>Создаём цифровые продукты, которые приносят результат</strong><br/>
