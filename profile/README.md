@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="logo.png"  alt="Yggdrix logo"/> <p align="center" >🌿 YggDrix</p></h1>
+<h1 align="center"><img align="center" src="logo.png"  alt="Yggdrix logo"/> <p align="center" >🌿YggDrix</p></h1>
 <p align="center">
     <strong>Создаём цифровые продукты, которые приносят результат</strong><br/>
     <em>Веб-разработка · Мобильные приложения · Telegram-боты · Автоматизация</em>
