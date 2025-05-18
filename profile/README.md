@@ -1,53 +1,57 @@
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Yggdrasill_by_Franz_Stassen.png" width="160" alt="Yggdrix logo"/>
+</p>
+
 <h1 align="center">🌿 Yggdrix</h1>
 <p align="center">
     <strong>Создаём цифровые продукты, которые приносят результат</strong><br/>
-    Веб-разработка · Мобильные приложения · Телеграм-боты · Автоматизация
+    <em>Веб-разработка · Мобильные приложения · Telegram-боты · Автоматизация</em>
 </p>
 
 <p align="center">
-    <a href="https://t.me/YggDrix_bot">Telegram</a> •
-    <a href="info@yggdrix.com">Email</a> •
-    <a href="https://yggdrix.ru/">Website</a>
+    <a href="https://t.me/YggDrix_bot"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:info@yggdrix.com"><img src="https://img.shields.io/badge/Email-hello@yggdrix.com-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://yggdrix.ru"><img src="https://img.shields.io/badge/Website-yggdrix.ru-0b0b0b?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🚀 О нас
 
-Мы — команда разработчиков и дизайнеров, которые помогают бизнесу расти за счёт качественных IT-решений. От идеи до продакшна.
+Мы — команда разработчиков и дизайнеров, помогаем бизнесу расти за счёт продуманных и эффективных IT-решений.
 
-📌 Полный цикл разработки:
-- Прототипирование и дизайн
-- Backend и frontend
-- Интеграции, CRM, аналитика
-- Поддержка и сопровождение
+🔧 От идеи до запуска:
+- UI/UX-дизайн и прототипирование
+- Backend и frontend разработка
+- Интеграции с CRM, платёжками, Telegram
+- Тестирование, хостинг, сопровождение
 
 ---
 
 ## 🛠 Наш стек
 
-**Backend:**
-- Go (Fiber, Echo), Node.js
-- PostgreSQL, Redis, RabbitMQ
-- REST, WebSocket
-
-**Frontend:**
-- React, Next.js, TailwindCSS
-
-**Mobile:**
-- Flutter, Kotlin, Swift
-
-**DevOps:**
-- Docker, CI/CD, Nginx, Linux
-
-
-## 📫 Контакты
-
-- 💬 Telegram: [@yggdrix](https://t.me/YggDrix_bot)
-- 📩 Email: info@yggdrix.com
-- 🌍 Сайт: [yggdrix.dev](https://yggdrix.ru)
+| Backend       | Frontend             | Mobile             | DevOps              |
+|---------------|----------------------|--------------------|---------------------|
+| Go (Fiber)    | React / Next.js      | Flutter            | Docker, GitHub CI   |
+| Node.js       | TailwindCSS          | Kotlin / Swift     | Nginx, Linux        |
+| PostgreSQL    |                      |                    |                     |
+| Redis / MQ    |                      |                    |                     |
+| REST, WS      |                      |                    |                     |
 
 ---
+
+
+## 📬 Контакты
+
+- 💬 Telegram: [@yggdrix](https://t.me/YggDrix_bot)
+- 📩 Email: [info@yggdrix.com](mailto:info@yggdrix.com)
+- 🌍 Сайт: [yggdrix.ru](https://yggdrix.ru)
+
+---
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Yggdrix-%F0%9F%8C%BF%20Rooted%20in%20Tech,%20Growing%20with%20You-green?style=flat-square" />
+</p>
 
 <p align="center">
     <em>Yggdrix — корни в технологиях, рост в эффективности.</em>
