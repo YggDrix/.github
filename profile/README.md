@@ -56,9 +56,9 @@
 ---
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Yggdrix-%F0%9F%8C%BF%20Rooted%20in%20Tech,%20Growing%20with%20You-green?style=flat-square" />
+    <em>Yggdrix — корни в технологиях, рост в эффективности.</em>
 </p>
 
 <p align="center">
-    <em>Yggdrix — корни в технологиях, рост в эффективности.</em>
+    <img src="https://img.shields.io/badge/Yggdrix-%F0%9F%8C%BF%20Rooted%20in%20Tech,%20Growing%20with%20You-green?style=flat-square" />
 </p>
