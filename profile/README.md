@@ -1,9 +1,7 @@
-<p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Yggdrasill_by_Franz_Stassen.png" width="160" alt="Yggdrix logo"/>
-</p>
+
 
 <h1 align="center"><p align="center">
-        <img src="LOGO.PNG" alt="Yggdrix logo"/>
+        <img src="logo.png" alt="Yggdrix logo"/>
     </p> YggDrix</h1>
 <p align="center">
     <strong>Создаём цифровые продукты, которые приносят результат</strong><br/>
