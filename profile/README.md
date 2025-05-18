@@ -2,7 +2,7 @@
 
 <h1 align="center"><p align="center">
         <img src="logo.png" alt="Yggdrix logo"/>
-    </p> YggDrix</h1>
+        YggDrix</p> </h1>
 <p align="center">
     <strong>Создаём цифровые продукты, которые приносят результат</strong><br/>
     <em>Веб-разработка · Мобильные приложения · Telegram-боты · Автоматизация</em>
